@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0720"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42A9B9571C9A8F1A00DB1FA3"
+               BuildableName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.app"
+               BlueprintName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview"
+               ReferencedContainer = "container:&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42A9B9731C9A8F1A00DB1FA3"
+               BuildableName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleviewTests.xctest"
+               BlueprintName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleviewTests"
+               ReferencedContainer = "container:&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42A9B97E1C9A8F1A00DB1FA3"
+               BuildableName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleviewUITests.xctest"
+               BlueprintName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleviewUITests"
+               ReferencedContainer = "container:&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42A9B9571C9A8F1A00DB1FA3"
+            BuildableName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.app"
+            BlueprintName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview"
+            ReferencedContainer = "container:&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42A9B9571C9A8F1A00DB1FA3"
+            BuildableName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.app"
+            BlueprintName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview"
+            ReferencedContainer = "container:&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42A9B9571C9A8F1A00DB1FA3"
+            BuildableName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.app"
+            BlueprintName = "&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview"
+            ReferencedContainer = "container:&#x952e;&#x76d8;&#x52a0;&#x8f7d;&#x5728;tabeleview.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

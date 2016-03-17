@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>键盘加载在tabeleview.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>42A9B9571C9A8F1A00DB1FA3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>42A9B9731C9A8F1A00DB1FA3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>42A9B97E1C9A8F1A00DB1FA3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
